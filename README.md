@@ -1,0 +1,1 @@
+[look at the notebook](pension-fund-norway-investments/map_investments_to_symbols.ipynb)
